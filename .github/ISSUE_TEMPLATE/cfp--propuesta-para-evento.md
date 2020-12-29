@@ -2,7 +2,7 @@
 name: 'CFP: Propuesta para evento'
 about: Todo miembro de la comunidad puede proponer charlas, workshops o cualquiero
   otro tipo de evento, creando un Issue con la información solicitada en la plantilla.
-title: ''
+title: "[CFP]: Titulo del evento"
 labels: CFP
 assignees: murillodigital, anairinac
 
