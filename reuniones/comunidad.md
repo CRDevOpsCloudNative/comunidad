@@ -10,7 +10,16 @@
 
 - Leonardo Murillo (@murillodigital)
 - Irina Calvo (@anairinac)
-- Mauricio Araya ()
+- Mauricio Araya (@mabrizio)
+- Esteban Solano (@stvansolano)
+- Esteban Fallas (@estebanfallasf)
+- Joseph Villarreal Lopez (@lapeyus)
+- Christian Quirós (cquirosj)
+- Alonso Ugalde Aguilar (@augaldecr)
+- Andrés Chacón Guzmán (@andres.chgz)
+- Dennis Luna Acuña (@djoluna88)
+- Mainor Miranda (@mainoramg)
+- Kevin Sandí (@ksandi)
 
 ### Agenda
 
@@ -23,7 +32,7 @@
 
 ### Decisiones, comentarios y retroalimentación
 
-
+Slack precios: https://slack.com/pricing
 
 ### Ask me anything
 
