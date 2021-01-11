@@ -6,3 +6,4 @@ En este directorio podés encontrar las presentaciones, artefactos, documentaci�
 # Indice de eventos
 
 - [20201210 - Evento de lanzamiento de la comunidad](20201210_Lanzamiento/README.md)
+- [20210106 - Reunión de la comunidad](20210106_Comunidad/README.md)
