@@ -13,6 +13,7 @@ assignees: murillodigital, anairinac
 **Nombre completo**:
 **Correo electrónico**:
 **Nombre de empresa/organización o independiente**:
+**Fecha tentativa de disponibilidad**: Indicarnos un par de opciones de semanas en las que estaría disponible para organizar el evento.
 
 **Tipo de evento**: Charla | Workshop | Otro
 **Titulo del evento**: Nombre que desea darle al evento
