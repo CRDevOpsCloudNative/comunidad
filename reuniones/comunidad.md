@@ -2,6 +2,42 @@
 
 ## Reunión mensual
 
+### Fecha: 3 de Febrero, 2021
+
+### Asistencia
+
+- Leonardo Murillo (@murillodigital)
+- Irina Calvo (@anairinac)
+- Mauricio Araya (@mabrizio)
+
+### Agenda
+
+- Intro
+    - Ya se unieron al chapter de CNCF?
+    - Meeting Notes - tomador de notas
+    - Decisiones reunion pasada (Slack)
+    - Incrementar presencia de DevOps en la temática
+- Evento multi-comunidades
+    - Presentación comunidad Azure - Esteban
+    - Presentación GDG - Alfredo y Falcón
+    - Votacion tema y modalidad
+- SKILup Chapter Colombia
+    - Presentación Jimmy Quejada
+- Más eventos Q2 2021
+    - Rodolfo - Costa Rica, AWS CI/CD
+    - Victor - Salvador, Networking en Kubernetes
+    - Jairo Andrés - Colombia, Chaos Engineering - retos culturales e implementación técnica
+    - Oswaldo Gómez - Mexico, Workshop MLOps
+- Noticias
+    - CNCF Live Coding en Twitch
+    - Kubernetes Day el Salvador Recap
+    - YouTube Channel y LinkedIn Company Page de la comunidad
+    - Club de Lectura, definir participantes iniciales y hablar sobre dinámica
+
+### Notas y Decisiones
+
+### Open Mic y AMA a Organizadores
+
 ----
 
 ### Fecha: 6 de Enero, 2021
