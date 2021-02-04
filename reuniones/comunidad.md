@@ -1,14 +1,23 @@
 # Comunidad DevOps + Cloud Native Costa Rica
 
-## Reunión mensual
+# Reunión mensual
 
-### Fecha: 3 de Febrero, 2021
+## Fecha: 3 de Febrero, 2021
 
 ### Asistencia
 
 - Leonardo Murillo (@murillodigital)
-- Irina Calvo (@anairinac)
 - Mauricio Araya (@mabrizio)
+- Esteban Fallas(@estebanfallasf)
+- Joseph Villarreal Lopez (@lapeyus)
+- Jose Calderón
+- Christian Quirós (@cquirosj)
+- Gerardo López Falcón
+- Andrés Chacón (@andreschgz)
+- César Granados (@csargrnds)
+- Esteban Solano G. (@stvansolano)
+- John Arguedas
+- Mainor Miranda (@mainoramg)
 
 ### Agenda
 
@@ -19,7 +28,7 @@
     - Incrementar presencia de DevOps en la temática
 - Evento multi-comunidades
     - Presentación comunidad Azure - Esteban
-    - Presentación GDG - Alfredo y Falcón
+    - Presentación GDG y Docker Costa Rica - Alfredo y Falcón
     - Votacion tema y modalidad
 - SKILup Chapter Colombia
     - Presentación Jimmy Quejada
@@ -33,14 +42,41 @@
     - Kubernetes Day el Salvador Recap
     - YouTube Channel y LinkedIn Company Page de la comunidad
     - Club de Lectura, definir participantes iniciales y hablar sobre dinámica
+- Links de comunidades
+    - Docker Costa Rica (https://www.facebook.com/dockertico)
 
 ### Notas y Decisiones
 
+- Se comunica decisión de quedarnos con Slack.
+- Joaquin Rodriguez nos cuenta sobre su experiencia aplicando DevOps en empresas gubernamentales y comenta temas de interés para roles como el suyo.
+    - Como promover cultura
+    - El uso de MVPs
+    - Colaboración y gestión de proyectos
+- Se habla sobre la iniciativa de agregar contenido al canal de YouTube para atender brechas en temática que no se pueden coordinar presencialmente por cuestiones de disponibilidad y carga
+    - Joaquin coordinará con Leo para hacer un "episodio" de los nuevos videos en el canal de YouTube para hablar de su experiencia
+    - Andres Chacon habla de su interes de cubrir temas de DevOps y Cloud Native desde un punto de partido de operaciones
+
 ### Open Mic y AMA a Organizadores
+
+- Esteban Solano solicita link para presentación de Kubecon 
+- Victor Morales habla sobre magma opensource para 5G y su interés de dar marcha a una iniciativa de producción de contenido para streaming liviano para participación amplia de la comunidad.
+
+### Club de Lectura
+
+Sesiones semanales - un mes de sesiones como PoC. Se creará canal de Slack y convocará a todos los que formarán parte del primer ciclo.
+
+1. Jimmy Quejada
+2. Leonardo Murillo
+3. Rodolfo
+4. Esteban Fallas
+5. Pedro Rodriguez (P.R.)
+6. Andres Chacon
+7. Joseph
+8. Alonso Pizarro
 
 ----
 
-### Fecha: 6 de Enero, 2021
+## Fecha: 6 de Enero, 2021
 
 ### Asistencia
 
@@ -67,6 +103,7 @@
 - Teodoro Cook
 - Luis Valverde
 - Olger Rojas
+- Jose Calderón
 
 ### Agenda
 
