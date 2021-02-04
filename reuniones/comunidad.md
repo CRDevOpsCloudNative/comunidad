@@ -55,6 +55,7 @@
 - Se habla sobre la iniciativa de agregar contenido al canal de YouTube para atender brechas en temática que no se pueden coordinar presencialmente por cuestiones de disponibilidad y carga
     - Joaquin coordinará con Leo para hacer un "episodio" de los nuevos videos en el canal de YouTube para hablar de su experiencia
     - Andres Chacon habla de su interes de cubrir temas de DevOps y Cloud Native desde un punto de partido de operaciones
+- Hablamos sobre 5G y el impacto que tendrá a futuro
 
 ### Open Mic y AMA a Organizadores
 
@@ -73,6 +74,15 @@ Sesiones semanales - un mes de sesiones como PoC. Se creará canal de Slack y co
 6. Andres Chacon
 7. Joseph
 8. Alonso Pizarro
+
+### Enlaces y Referencias
+
+- GDG Pura Vida: https://gdg.community.dev/gdg-pura-vida/
+- Dockeritico: https://www.facebook.com/dockertico/
+- Azure MeetUp Costa Rica: https://www.meetup.com/Azure-Costa-Rica/
+- SKILup Chapter Colombia: https://www.meetup.com/devops-institute-skilup-chapter-colombia/
+- Magma Core - 5G: https://www.magmacore.org/
+
 
 ----
 
